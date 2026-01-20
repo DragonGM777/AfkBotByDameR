@@ -1,9 +1,10 @@
 {
-	"ip":"Gamercraft_FF.aternos.me",
-	"port": 16262,
-	"name": "afkbot",
+	"ip":"Outlaw_MC.aternos.me",
+	"port": 56538,
+	"name": "24/7Bot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
 	"login-cmd":"/login 12345"
 }
+
